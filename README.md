@@ -13,14 +13,14 @@ The project involves the following key components:
 * Feature Selection Methods: CFS, MIFS, LDA, RFE
 * Feature Extraction Methods: PCA, IPCA, QDA, NMF
 * Deep Learning Models: Fast-3D CNN and ResNet
-* Evaluation Datasets: Indian Pines and Salinas hyperspectral datasets
+* Evaluation Datasets: Indian Pines and Salinas Hyperspectral Datasets
 
 ## Folder Structure
 
 * src/: Contains the Google Colab Notebook .
 * datasets/: Provides instructions for downloading datasets.
 * figure/: Contains the Methodology diagram .
-* results/: Includes accuracy , computationa time comparisons graphs , and an Excel summary file.
+* results/: Includes accuracy , computational time comparisons graphs , and an Excel summary file.
 * requirements.txt: Lists Python libraries required to run the notebook.
 
 ## Datasets
