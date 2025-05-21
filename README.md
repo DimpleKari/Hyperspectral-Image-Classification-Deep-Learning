@@ -17,10 +17,10 @@ The project involves the following key components:
 
 ## Folder Structure
 
-* src/: Contains the Jupyter notebook .
+* src/: Contains the Google Colab Notebook .
 * datasets/: Provides instructions for downloading datasets.
-* figure/: Contains the methodology diagram .
-* results/: Includes accuracy comparisons graphs , and an Excel summary file.
+* figure/: Contains the Methodology diagram .
+* results/: Includes accuracy , computationa time comparisons graphs , and an Excel summary file.
 * requirements.txt: Lists Python libraries required to run the notebook.
 
 ## Datasets
@@ -40,5 +40,5 @@ Download the .mat files and place them in your working directory before running 
 
 ## Results
 
-- Accuracy Comparison graphs results are saved in the results/ folder.
+- Accuracy & Compuational Time Comparison graphs results are saved in the results/ folder.
 - A comparison across CNN and ResNet architectures with 8 feature engineering techniques is provided in accuracy_summary.xlsx.
